@@ -1,0 +1,39 @@
+REQUIREMENTS.TXT
+
+
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.11.2
+scipy==1.10.0
+
+
+Explanation of the Libraries:
+
+
+pandas: Used for data manipulation and analysis (e.g., loading the dataset, cleaning, and transforming the data).
+
+numpy: Used for numerical operations, particularly helpful when dealing with arrays and matrices.
+
+scikit-learn: A library for machine learning algorithms and tools, such as classification algorithms, evaluation metrics, and data preprocessing.
+
+matplotlib: A plotting library to create visualizations such as histograms, scatter plots, etc.
+
+seaborn: Built on top of Matplotlib, this library is used for statistical data visualization.
+
+
+Technologies Used:
+
+
+Python 3.x
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Matplotlib/Seaborn (for data visualization)
+
+TensorFlow/Keras (for deep learning models)
